@@ -1,3 +1,5 @@
+# Convolutional Neural Network Analysis
+
 This project focus on what is an Convolutional Neural Network or also known as CNN.
 
 The cnn_tf_analysis.ipynb file used for checking and comparing different CNN architectures and how they affect the result.
